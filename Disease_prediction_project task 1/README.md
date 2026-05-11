@@ -67,3 +67,4 @@ Disease_prediction_project/
 │
 ├── README.md
 └── .gitignore
+

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# VS Code
+.vscode/
+
+# Dataset
+dataset/
+
+# Temporary Files
+*.tmp
+
+# Streamlit
+.streamlit/
+
+# Model Files (optional)
+*.h5
+*.pkl
